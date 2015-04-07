@@ -7,7 +7,7 @@ $(document).ready(function() {
         navigationPosition: 'right',
         // navigationTooltips: ['summary', 'education', 'experience', 'technical-skills'],
         showActiveTooltip: true,
-        sectionsColor: ['red', '#4BBFC3', '#7BAABE', 'whitesmoke', '#000'],
+        sectionsColor: ['brown', '#4BBFC3', '#7BAABE', 'green'],
 
 
 

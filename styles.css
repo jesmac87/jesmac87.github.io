@@ -1,0 +1,30 @@
+.summary {
+    background: url('./images/night-sky.jpg');
+    background-size: 100% 100%;
+}
+
+.jesse {
+    max-width: 100%;
+    max-height: 100%;
+    /*width: 300px;
+    height: 300px;*/
+    /*position: absolute;
+top: 30%;
+left: 50%;
+margin-top: -150px;
+margin-left: -150px;
+*/
+}
+
+p,
+li {
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: 4.0em;
+}
+
+body {
+    /* font-size 1em = 10px */
+    
+    font-size: 62.5%;
+}
